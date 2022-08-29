@@ -1,0 +1,127 @@
+@import url('http://fonts.cdnfonts.com/css/universal-condensed');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+ul {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link-active {
+    color: red;
+    font-size: 2rem;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    
+    
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    
+}
+
+.headline {
+    margin-top: 5rem;
+}
+
+table {
+    margin-top: 5rem;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    table-layout: fixed;
+    
+}
+
+
+.tall {
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-align: start;
+    background: #2D519D;
+    color: white;
+    
+}
+
+.tall-G {
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-align: start;
+    background: #3F8452;
+    color: white;
+    
+}
+
+.tall-O {
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-align: start;
+    background: #BA4A31;
+    color: white;
+    
+}
+
+.bokstav {
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 0;
+    padding: 0;
+}
+
+.navn {
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+td {
+    text-align: center;
+      
+}
+
+.B {
+    background-color: #B9CFE5;
+    border: 1px solid black;
+}
+
+.B:hover {
+background-color: #d5e3f2;
+}
+
+.O {
+   background-color: #D6AFA6; 
+   border: 1px solid black;
+  
+}
+
+.O:hover {
+    background-color: #e6c5be; 
+}
+
+.G {
+    background-color: #BCDEB2;
+    border: 1px solid black;
+}
+
+.G:hover {
+    background-color: #d4ebcd;
+}
