@@ -1,3 +1,3 @@
 ### periodic table
 
-This website shows blabla
+This website shows the periodic table.
